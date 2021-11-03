@@ -1,3 +1,5 @@
+#Last updated: 11/03/2021 5:12PM MST
+
 import threading, requests, time
 
 start = time.time()
